@@ -111,8 +111,9 @@
    <text xml:lang="eng">
       <body>
          <div type="oaths">
-            <pb facs="tcp:039306_0000_10141CFFC47C4120"/>
-            <pb facs="tcp:039306_0001_10141D015A8D7088" rendition="simple:additions"/>
+            <pb facs="unknown:039306_0000_10141CFFC47C4120"/>
+            <pb facs="unknown:039306_0001_10141D015A8D7088"
+                rendition="simple:additions"/>
             <head>A TRUE COPY OF THE OATHS That are appointed by Act of Parliament, made in the Firſt Year of Their preſent Majeſties Reign; to be Taken inſtead of the Oaths of Supremacy and Alle<g ref="char:EOLhyphen"/>giance, and the Declaration appointed to be made, Repeated and Subſcribed</head>
             <p>
                <hi>I</hi> A. B. <hi>do ſincerely Promiſe and Swear, That I will be Faithful, and bear true Allegiance to Their Majeſties, King</hi> WILLIAM <hi>and Queen</hi> MARY.</p>
